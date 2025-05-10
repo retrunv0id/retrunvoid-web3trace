@@ -1,6 +1,6 @@
 {
   "name": "retrunvoid-web3trace",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Debug Ethereum smart contracts with ease",
   "main": "dist/index.js",
   "bin": {
