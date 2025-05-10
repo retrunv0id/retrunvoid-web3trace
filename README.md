@@ -6,4 +6,4 @@ A lightweight NPM package for debugging Ethereum smart contracts.
 
 ## Installation
 ```bash
-npm install web3trace
+npm i retrunvoid-web3trace
