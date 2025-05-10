@@ -1,5 +1,5 @@
 {
-  "name": "web3trace",
+  "name": "retrunvoid-web3trace",
   "version": "0.1.0",
   "description": "Debug Ethereum smart contracts with ease",
   "main": "dist/index.js",
@@ -13,7 +13,7 @@
     "prepublishOnly": "tsc"
   },
   "keywords": ["web3", "blockchain", "smart-contract", "debugging", "tea-protocol"],
-  "author": "Retrunvoid",
+  "author": "retrunv0id",
   "license": "MIT",
   "dependencies": {
     "commander": "^9.4.1",
